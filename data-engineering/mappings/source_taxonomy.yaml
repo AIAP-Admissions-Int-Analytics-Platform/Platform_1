@@ -1,0 +1,39 @@
+# Starter taxonomy from PRD section 6 — expand/edit as real data comes in.
+# Update DE-03's mapping logic whenever this file changes.
+categories:
+  Social Media:
+    - Instagram
+    - Facebook
+    - LinkedIn
+    - YouTube
+    - WhatsApp groups
+  Digital / Web:
+    - University Website
+    - Google Search
+    - Digital Advertisement
+  Exams:
+    - Entrance Examination
+    - State/national exam board referral
+  Direct Contact:
+    - Walk-in
+    - Phone Enquiry
+    - Email Enquiry
+    - Campus Visit
+    - Open House
+  Referrals:
+    - Friend Referral
+    - Student Referral
+    - Alumni Referral
+    - Faculty Referral
+    - Parent Referral
+  Partnerships & Agents:
+    - School Partnership
+    - College Partnership
+    - Education Consultant
+  Events & Campaigns:
+    - Education Fair
+    - Scholarship Campaign
+    - Counselling Session
+  Other:
+    - Other
+    - Unknown
